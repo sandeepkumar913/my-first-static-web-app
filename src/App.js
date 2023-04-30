@@ -5,8 +5,7 @@ function App() {
   return ( <div class='container'>
             <h2 class="title">We're down for maintenance.</h2>
 
-            <p>We apologize for the inconvenience and appreciate your patience.</p>
+            <p>We apologize to for the inconvenience and appreciate your patience.</p>
         </div>);
 }
-
 export default App;
